@@ -13,4 +13,13 @@
    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
    <img align="center" alt="DataBricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
+   <br/>
 </div>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedaniel1910&layout=compact)
+
+### E-mail for contact
+
+[![Linkedin](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](felipedaniel1910@hotmail.com) <div> felipedaniel1910@hotmail.com </div>   
+
