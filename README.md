@@ -1,9 +1,9 @@
 ### Hi there! I'm Felipe Almeida 👋🏻😀
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipedaniel1910/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falmeidev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_daniel_/)
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipedaniel1910&show_icons=true&theme=dark)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=falmeidev&show_icons=true&theme=dark)
 
 ### Technologies that I work with
 
